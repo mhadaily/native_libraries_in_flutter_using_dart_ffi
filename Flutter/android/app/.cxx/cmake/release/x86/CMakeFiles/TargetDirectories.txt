@@ -1,0 +1,3 @@
+/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/x86/CMakeFiles/cJSON.dir

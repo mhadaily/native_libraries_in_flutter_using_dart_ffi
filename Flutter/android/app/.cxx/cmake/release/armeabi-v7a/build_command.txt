@@ -1,0 +1,21 @@
+                Executable : /Users/majid/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app
+-DCMAKE_FIND_ROOT_PATH=/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/prefab/armeabi-v7a/prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=/Users/majid/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/majid/Library/Android/sdk/ndk/21.1.6352462
+-DANDROID_PLATFORM=android-16
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=/Users/majid/Library/Android/sdk/ndk/21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/build/app/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=/Users/majid/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-B/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/armeabi-v7a
+-GNinja
+jvmArgs : 
+
+Build command args:

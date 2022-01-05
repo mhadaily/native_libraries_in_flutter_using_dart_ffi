@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/majid/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/majid/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/majid/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DcJSON_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles/cJSON.dir/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Dart/native/cJSON/cJSON.c.o   -c /Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Dart/native/cJSON/cJSON.c",
+  "file": "/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Dart/native/cJSON/cJSON.c"
+}
+]

@@ -1,0 +1,7 @@
+Executable : /Users/majid/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/x86
+cJSON
+jvmArgs : 
+

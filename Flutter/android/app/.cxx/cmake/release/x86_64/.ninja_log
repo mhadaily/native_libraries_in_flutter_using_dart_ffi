@@ -1,0 +1,5 @@
+# ninja log v5
+0	491	1641406159	CMakeFiles/cJSON.dir/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/native/cJSON/cJSON.c.o	6b458d0b43d12baa
+491	534	1641406159	/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/build/app/intermediates/cmake/release/obj/x86_64/libcJSON.so	bdbfb0b3756b0a36
+0	498	1641406184	CMakeFiles/cJSON.dir/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Dart/native/cJSON/cJSON.c.o	14699ec7c7a17999
+498	542	1641406185	/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/build/app/intermediates/cmake/release/obj/x86_64/libcJSON.so	9cbd36719fd98b93

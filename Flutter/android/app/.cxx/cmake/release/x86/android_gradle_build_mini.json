@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/CMakeLists.txt",
+    "/Users/majid/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/majid/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/majid/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/majid/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "cJSON-Release-x86": {
+      "artifactName": "cJSON",
+      "buildCommand": "/Users/majid/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/android/app/.cxx/cmake/release/x86\" cJSON",
+      "abi": "x86",
+      "output": "/Users/majid/Projects/Github/native_libraries_in_flutter_using_dart_ffi/Flutter/build/app/intermediates/cmake/release/obj/x86/libcJSON.so",
+      "runtimeFiles": []
+    }
+  }
+}
