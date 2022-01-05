@@ -1,0 +1,14 @@
+{
+  "name": "Majid Hajian",
+  "age": 30,
+  "nicknames": [
+    {
+      "name": "Mr. Majid",
+      "length": 9
+    },
+    {
+      "name": "Mr. Dart",
+      "length": 8
+    }
+  ]
+}

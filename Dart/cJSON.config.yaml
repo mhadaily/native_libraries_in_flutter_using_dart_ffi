@@ -1,0 +1,11 @@
+output: 'lib/ffi/cjson_generated_bindings.dart'
+name: 'CJson'
+description: 'Holds bindings to cJSON.'
+headers:
+  entry-points:
+    - 'native/cJSON/cJSON.h'
+  include-directives:
+    - '**cJSON.h'
+comments: false
+typedef-map:
+  'size_t': 'IntPtr'
